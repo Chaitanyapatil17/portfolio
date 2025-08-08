@@ -2,6 +2,7 @@ import React from "react";
 import LogoWall from "../components/LogoWall";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import FlowingSkills from "../components/FlowingSkills";
+import Button from "./Button"; // Assuming Button is the component you want to use
 
 // import LetterGlitch from "../React/LetterGlitch";
 // import LogoWall from "../components/LogoWall";
@@ -56,6 +57,7 @@ const Hero = () => {
             >
               <FaEnvelope className="text-2xl" />
             </a>
+            <Button/>
           </div>
         </div>
 
