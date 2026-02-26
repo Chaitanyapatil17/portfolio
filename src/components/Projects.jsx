@@ -31,9 +31,9 @@ const projects = [
   },
   {
     title: "Password Genretor",
-    image: urlshort,
-    link: "https://github.com/Chaitanyapatil17/LinkCondenser",
-    // preview: "https://tron-legacy-web.vercel.app/",
+    image: Password,
+    link: "https://github.com/Chaitanyapatil17/PasswordGen",
+    preview: "https://randomlock.netlify.app/",
     // status: "Template (not official)",
   },
 ];
