@@ -3,9 +3,25 @@ import Password from "../assets/password.png";
 import deepseek from "../assets/Deepseekai.png";
 import rajgirawala from "../assets/rajgirawala.png";
 import urlshort from "../assets/urlshort.png";
+import cardmatch from "../assets/CardMatch.png"
+import laundryimage from "../assets/LaundryM.png"
 
 
 const projects = [
+  {
+    title: "CardMatch",
+    image: cardmatch,
+    link: "https://github.com/Chaitanyapatil17/CardMatch",
+    preview: "https://cardmatch-by-chaitanya.netlify.app/",
+    // status: "On Development",
+  },
+  {
+    title: "Laundry Management",
+    image: laundryimage,
+    link: "https://github.com/Chaitanyapatil17/Laundry-Management-",
+    preview: "https://www.workstone.in/chaitanya/",
+    // status: "On Development",
+  },
   {
     title: "RajgiraWala",
     image: rajgirawala,
@@ -14,21 +30,7 @@ const projects = [
     // status: "On Development",
   },
   {
-    title: "DeepseekAI Clone",
-    image: deepseek,
-    link: "https://github.com/Chaitanyapatil17/DeepseekAI-Clone",
-    // preview: "https://stockin-demo.vercel.app",
-    // status: "In Development",
-  },
-  {
     title: "Password Genretor",
-    image: Password,
-    link: "https://github.com/Chaitanyapatil17/PasswordGen",
-    preview: "https://randomlock.netlify.app/",
-    // status: "Contributor",
-  },
-  {
-    title: "URL Shortner",
     image: urlshort,
     link: "https://github.com/Chaitanyapatil17/LinkCondenser",
     // preview: "https://tron-legacy-web.vercel.app/",
